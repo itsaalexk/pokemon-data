@@ -30,7 +30,7 @@ const HomePage:NextPage<Props> =({pokemons})=> {
   
   return {
     props:{
-        pokemons 
+       
     }
   }
  }
